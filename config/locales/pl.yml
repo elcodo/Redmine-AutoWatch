@@ -1,0 +1,5 @@
+# English strings go here for Rails i18n
+pl:
+  autowatch_text_general_settings: "Ustawienia"
+  autowatch_text_general_settings_description: "Ustaw rolę której użytkownicy będą automatycznie dodani do obserwowanych"
+  autowatch_role_id_name: "Rola"
